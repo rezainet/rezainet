@@ -1,0 +1,16 @@
+# Reza Alizadeh Hesari
+
+Network and infrastructure engineer in Istanbul, relocating to Ireland in 2027.
+
+I design and automate networks and Linux infrastructure. Today I'm DevOps & Infrastructure Engineer at Nokta Elektronik, where I run an on-premises AI platform and keep production servers hardened. Before that I built intelligent transport system networks for a municipality in Iran: four sites, 32 cameras, 8 servers, 8 switches and 4 routers, from survey to commissioning.
+
+## Now
+- Preparing for Cisco CCNA (exam December 2026), one lab at a time in [network-lab](https://github.com/rezainet/network-lab)
+- MSc thesis: mutation-based evaluation of pre-deployment network validation in a BGP leaf-spine fabric (Batfish, containerlab, FRR)
+- Hardening Ubuntu to the CIS Benchmark with Ansible in [server-hardening](https://github.com/rezainet/server-hardening)
+
+## Stack
+Python, Ansible, Linux, Cisco IOS, BGP and OSPF, Docker, Git, Azure (learning, AZ-104 in 2027), TypeScript
+
+## Elsewhere
+[LinkedIn](https://www.linkedin.com/in/reza-alizadeh-hesari) · reza.hesari.it@gmail.com
