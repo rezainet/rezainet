@@ -1,6 +1,6 @@
 # Reza Alizadeh Hesari
 
-Network and infrastructure engineer in Istanbul, relocating to Ireland in 2027.
+Network and infrastructure engineer in Istanbul.
 
 I design and automate networks and Linux infrastructure. Today I'm DevOps & Infrastructure Engineer at Nokta Elektronik, where I run an on-premises AI platform and keep production servers hardened. Before that I built intelligent transport system networks for a municipality in Iran: four sites, 32 cameras, 8 servers, 8 switches and 4 routers, from survey to commissioning.
 
