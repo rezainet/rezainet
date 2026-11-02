@@ -9,7 +9,7 @@ I design and automate networks and Linux infrastructure. Today I'm DevOps & Infr
 - MSc thesis: mutation-based evaluation of pre-deployment network validation in a BGP leaf-spine fabric (Batfish, containerlab, FRR)
 
 ## Stack
-Python, Ansible, Linux, Cisco IOS, BGP and OSPF, Docker, Git, Azure (learning, AZ-104 in 2027), TypeScript
+Python, Ansible, Linux, Cisco IOS, BGP and OSPF, Docker, Git, TypeScript
 
 ## Elsewhere
 [LinkedIn](https://www.linkedin.com/in/reza-alizadeh-hesari) · reza.hesari.it@gmail.com
